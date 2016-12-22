@@ -16,6 +16,9 @@
 <body>
 
 <?php
+	// Set the default date for the server
+	date_default_timezone_set('America/Chicago');
+
 	// Get the day of the week. 'l' formats as name of day of the week
 	$today = date("l");
 	$todayNum = date("m-d-y");
