@@ -36,6 +36,18 @@
 		case "Wednesday":
 			echo "<img src='wednesday_word.jpg'>";
 			break;
+		case "Thursday":
+			echo "<img src='thursday_word.jpg'>";
+			break;
+		case "Friday":
+			echo "<img src='friday_word.jpg'>";
+			break;	
+		case "Saturday":
+			echo "<img src='saturday_word.jpg'>";
+			break;
+		case "Sunday":
+			echo "<img src='sunday_word.jpg'>";
+			break;
 	}
 
 ?>
